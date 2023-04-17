@@ -53,6 +53,7 @@ Python | C | HTML | JS | CSS | SQL
 This project is bulit and Maintained by:
 
 [Samuel Jayasingh](https://github.com/SamuelJayasingh)
+|
 [Sam David](https://github.com/samdaviid)
 
 ## 🔗 Links
