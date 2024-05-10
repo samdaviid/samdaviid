@@ -52,10 +52,8 @@ Python | C | HTML | JS | CSS | SQL
 
 This project is bulit and Maintained by:
 
-[Samuel Jayasingh](https://github.com/SamuelJayasingh)
-|
 [Sam David](https://github.com/samdaviid)
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-christopher-sam-david-569807224/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdavidd/)
